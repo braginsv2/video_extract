@@ -6,7 +6,6 @@ import json
 import time
 from pathlib import Path
 
-
 # ── Try importing optional heavy dependencies ──────────────────────────────
 try:
     import cv2
