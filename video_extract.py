@@ -19,7 +19,6 @@ try:
 except ImportError:
     YOLO_OK = False
 
-
 # ── Color palette ──────────────────────────────────────────────────────────
 BG        = "#0f0f13"
 PANEL     = "#1a1a22"
